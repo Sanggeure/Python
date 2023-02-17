@@ -3,6 +3,5 @@ def say_hello():
 
 def say_bye():
     print("bye bye")
-
 say_hello()
 say_bye()
